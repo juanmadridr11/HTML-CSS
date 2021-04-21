@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+}
+body{
+
+    columns: 3;
+    
+    background-image: url(fondoAbstracto.jpg);
+    background-color:  rgba(100, 100, 100, 0.336);
+    background-blend-mode: soft-light;
+    
+    width: 40rem;
+    
+    margin-top: 8rem;
+    padding-bottom: 4rem;
+    margin-left: 19rem;
+
+    
+}
+h1{
+    
+    font-size: 1.5rem;
+    
+    width: 6.4rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    
+    
+
+
+}
+img{
+
+    width: 3rem;
+    margin-top: 1.8rem;
+    margin-left: 2rem;
+    
+
+}
+p{
+    width: 8rem;
+    font-size: 0.7rem;
+    
+    margin-left: 2rem;
+    margin-top: 2rem;
+    font-family: sans-serif;
+    color: rgba(255, 255, 255, 0.651);
+    
+
+}
+a{
+    
+    text-decoration: none;
+    
+    font-family: sans-serif;
+
+}
+.con1{
+
+    width: 13.7rem;
+    text-align: left;
+    padding-left: 2.4;
+    background: #eb8c00;
+    color: white;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    
+    
+}
+.con2{
+    
+    width: 13.7rem;
+    
+    text-align: left;
+    color: white;
+    background: #007777;
+}
+.con3{
+    width: 12.62rem;
+    
+    text-align: left;
+    color: white;
+    background: #004444;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    
+}
+button{
+    text-decoration: none !important;
+    margin-left: 2rem !important;
+    margin-top: 4rem !important;
+    font-family: sans-serif !important;
+    width: 7rem !important;
+    padding-top: .5rem !important;
+    padding-bottom: .5rem !important;
+    margin-bottom: 2rem !important;
+    background: white !important;
+    border: 2px solid white !important;
+    border-radius: 1rem !important;
+    
+    
+}
+#a1{
+
+    color:#eb8c00 ;
+}
+#a2{
+    
+    color: #007777;
+
+}
+#a3{
+
+    color: #004444;
+
+}
+.boton1{
+    
+    
+    margin-bottom: 2rem  !important;
+}
+#p1{
+
+    width: 9rem !important;
+
+}
+
+
+
